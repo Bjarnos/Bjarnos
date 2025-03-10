@@ -5,6 +5,4 @@
 - I like collaborating 🤝! Simply contact me 🤙
 
 ### Contact
-[My website](https://bjarnos.dev/)
-
-[Discord](https://discord.com/users/820933303616012288)
+[My website](https://bjarnos.dev/) <br> [Discord](https://discord.com/users/820933303616012288)
