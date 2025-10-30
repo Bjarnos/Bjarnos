@@ -6,7 +6,7 @@
 
 | Known languages | Languages used in public repositories |
 |-----------|---------------------------------------|
-| [![languages](https://skillicons.dev/icons?i=lua,python,js,cs,html,css&perline=3)](https://bjarnos.dev) | [![used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjarnos&layout=compact&theme=algolia)](https://bjarnos.dev) |
+| [![languages](https://skillicons.dev/icons?i=lua,python,js,cs,html,css&perline=2)](https://bjarnos.dev) | [![used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjarnos&layout=compact&theme=transparent)](https://bjarnos.dev) |
 
 ### Contact
 [My website](https://bjarnos.dev/)<br>[Discord](https://discord.com/users/820933303616012288)
