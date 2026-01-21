@@ -4,12 +4,6 @@
 - I can code in html/css/js and multiple server languages 🤓! To make websites frontend & backend 💻
 - I like collaborating 🤝! Simply contact me 🤙
 
-## Hello! Here is my README :)
-- I ❤️ coding in many languages!
-- I develop games on Godot 🔨, but I also do (anti-)cheat development on various platforms 👿😇
-- I can code in html/css/js and multiple server languages 🤓! To make websites frontend & backend 💻
-- I like collaborating 🤝! Simply contact me 🤙
-
 <a href="https://bjarnos.dev">
   <img height=200 align="center" src="https://github-readme-stats-lac-gamma.vercel.app/api?username=Bjarnos&hide=stars&show_icons=true&theme=default&bg_color=00000000" />
 </a>
