@@ -5,10 +5,10 @@
 - I like collaborating 🤝! Simply contact me 🤙
 
 <a href="https://bjarnos.dev">
-  <img height=200 align="center" src="https://github-readme-stats-lac-gamma.vercel.app/api?username=Bjarnos&hide=stars&show_icons=true&theme=blue-green&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats-lac-gamma.vercel.app/api?username=Bjarnos&hide=stars&show_icons=true&theme=maroongold&bg_color=00000000" />
 </a>
 <a href="https://bjarnos.dev">
-  <img height=200 align="center" src="https://github-readme-stats-lac-gamma.vercel.app/api/top-langs?username=Bjarnos&layout=compact&card_width=320&theme=blue-green&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats-lac-gamma.vercel.app/api/top-langs?username=Bjarnos&layout=compact&card_width=320&theme=maroongold&bg_color=00000000" />
 </a>
 
 ​
