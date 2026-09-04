@@ -14,7 +14,9 @@
 ​
 | My languages |
 |-----------|
-| ![languages](https://skillicons.dev/icons?i=html,css,js,nodejs,c,cpp,cs,py,lua,godot,go,gamemakerstudio&perline=6) |
+| ![languages](https://skillicons.dev/icons?i=html,css,js,nodejs,c,cpp,cs,py,lua,robloxstudio,godot,go,gamemakerstudio,arduino,docker,md&perline=8) |
+
+Currently learning: Java, Kotlin & Rust
 
 ### Contact
 [My website](https://bjarnos.dev/)<br>[Discord](https://discord.com/users/820933303616012288)
