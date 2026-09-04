@@ -16,6 +16,8 @@
 |-----------|
 | ![languages](https://skillicons.dev/icons?i=html,css,js,nodejs,c,cpp,cs,py,lua,robloxstudio,godot,go,gamemakerstudio,arduino,docker,md&perline=8) |
 
+In order: HTML, CSS, JS (web), NodeJS, C, C++, C#, Python, Lua, Luau, GDScript, Go, GML Code, Arduino C++, Dockerfile, Markdown
+
 Currently learning: Java, Kotlin & Rust
 
 ### Contact
